@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  📚 I'm currently learning Data Science and Web Development.<br>
+  📚 I'm currently learning Data Engineering and Web Development.<br>
   🎯 Goals: Developing something that people would use every day.<br><br>
   📌 A quote I relate to: <em>"I did not invent the transistor, the microprocessor, object-oriented programming, or most of the technology I work with. I love and admire my species, living and dead, and am totally dependent on them for my life and well-being."</em> ~ Steve Jobs
 </p>
