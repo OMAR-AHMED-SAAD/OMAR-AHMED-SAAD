@@ -1,6 +1,6 @@
 # Hey 👋 I'm Omar
 
-I'm a **Junior Software Engineer** passionate about **Data Engineering** and **Web Development**.
+I'm a **Junior Software Engineer** passionate about building backend Systems.
 
 ---
 
