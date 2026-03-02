@@ -1,11 +1,10 @@
 # Hey 👋 I'm Omar
 
-I'm a **Junior Software Engineer** passionate about building backend Systems.
+- Software Engineer 1 @ noon
 
 ---
 
 ### 🌱 About Me  
-- 📘 Currently learning: Software Engineering 
 - 🎯 Goal: Build something people use every day  
 - 💬 Quote I relate to:  
   > *"I did not invent the transistor, the microprocessor, object-oriented programming, or most of the technology I work with. I love and admire my species, living and dead, and am totally dependent on them for my life and well-being."*  
