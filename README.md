@@ -1,10 +1,7 @@
 ## Hey I'm Omar
 
 - Software Engineer 1 @ noon
-  - Building things.
-  - Learning things.
-  - Breaking things.
-  - Fixing things.
+- Building Products with taste, care and too many iterations.
 
 ### Let's connect 
 <a href="https://www.linkedin.com/in/omar-ahmed-29a84224b/" target="_blank">
