@@ -1,16 +1,12 @@
 ## Hey I'm Omar
 
-- Software Engineer 1 @ noon
-- Building Products with taste, care and too many iterations.
+* <p align="left" style="display: flex; align-items: center; gap: 6px;"><b>Software Engineer 1 @</b> <a href="https://www.noon.com" style="display: inline-flex; align-items: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Noon_Website_Logo.svg" height="18" valign="middle" alt="noon" /></a></p>
+* *Crafting digital products with precision, care & too many iterations.*
 
-### Let's connect 
-<a href="https://www.linkedin.com/in/omar-ahmed-29a84224b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:omarahmedaww@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
+### Reach Out
+
+<a href="https://www.linkedin.com/in/omar-ahmed-29a84224b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;<a href="mailto:omarahmedaww@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=OMAR-AHMED-SAAD&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=OMAR-AHMED-SAAD&label=VIEWS&color=000000&style=flat-square)
